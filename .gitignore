@@ -3,7 +3,7 @@
 Thumbs.db
 
 # IDE generated files
-.idea/
+.idea
 
 # third party scripst
 /node_modules
