@@ -1,5 +1,14 @@
 # jquery-accordion.js
 
+## Install
+
+`npm install --save @ak1ra/jquery-accordion`
+
+### Dependencies
+
+- jQuery
+- [dirkpeter/jQuery-collapsible](https://github.com/dirkpeter/jquery-collapsible)
+
 ## Basic setup
 
 ## Options
